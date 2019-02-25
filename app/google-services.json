@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46295902617",
+    "firebase_url": "https://fir-dbnosql.firebaseio.com",
+    "project_id": "fir-dbnosql",
+    "storage_bucket": "fir-dbnosql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46295902617:android:f0f85559b43b0e9d",
+        "android_client_info": {
+          "package_name": "kr.co.teada.ex86firebasedb_nosql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46295902617-k8q0ndd1umua38ct648jr5ovlc183rvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-r_JyPaUzXKEWDyGaKO29_q-w-K563A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
